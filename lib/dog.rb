@@ -3,7 +3,7 @@ class Dog
   attr_accessor :breed
 
   def initialize(name,breed)
-    puts "A Dog's Name"
+    puts "A Dog's Name & Breed"
     @name = name
   end
 end
