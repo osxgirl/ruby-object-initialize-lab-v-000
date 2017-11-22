@@ -5,6 +5,4 @@ class Person
     puts "A Name"
     @name = name
   end
-
-  end
 end
