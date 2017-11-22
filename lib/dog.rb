@@ -5,5 +5,6 @@ class Dog
   def initialize(name,breed)
     puts "A Dog's Name & Breed"
     @name = name
+    @breed = breed
   end
 end
